@@ -13,7 +13,7 @@ Here I have made a text summerization bot
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/S18-Niloy/Automated_Text_Summerization.git
+git clone https://github.com/kaemeister-0/Automated_Text_Summerization.git
 ```
 2. Install dependencies:
 ```
