@@ -24,7 +24,6 @@ pip install -r requirements.txt
 python -m streamlit run app.py
 ```
 
-# Interface: 
-![Example Image](pic.png)
+
   
 
